@@ -1,0 +1,51 @@
+.movie {
+  &__item {
+    display: grid;
+    grid-template-columns: 1fr 530px;
+    height: 260px;
+    margin: 15px auto;
+    list-style: none;
+    background-color: #282727;
+    border-radius: 10px;
+  }
+
+  &__image {
+    height: 260px;
+    width: 530px;
+    border-left: 3px solid rgb(237, 236, 81);
+  }
+
+  &__title {
+    display: inline-block;
+    color: #ddd;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+
+    &:hover {
+      color: rgb(237, 236, 81);
+    }
+  }
+
+  &__text {
+    color:rgb(170, 170, 170);
+    font-size: 14px;
+    line-height: 18px;
+
+    &-wrapper {
+      position: relative;
+      padding: 20px;
+    }
+  }
+
+  &__category {
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    color: rgb(237, 236, 81);
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+}

@@ -1,0 +1,38 @@
+.movie-details {
+  font-size: 14px;
+  color: #aaa;
+  background-color: #282727;
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding: 20px;
+
+  & > * {
+    margin-bottom: 5px;
+  }
+
+  &__back-button {
+    display: block;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    color: #999;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    transition: 0.3s;
+
+    &:hover {
+      color: rgb(237, 236, 81);
+    }
+  }
+
+  &__title {
+    font-size: 14px;
+  }
+
+  &__header {
+    color: #ddd;
+    font-size: 18px;
+  }
+}
