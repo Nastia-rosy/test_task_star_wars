@@ -34,10 +34,7 @@ const MovieDetails: React.FC<Props> = ({ movie, starships, planets }) => {
       }
     })
     setStarshipsInMovie(keepStarships);
-  }, [keepStarships, movie.starships, starships])
-
-  console.log(planetsInMovie);
-  console.log(starshipsInMovie);
+  }, [keepStarships, movie.starships, starships]);
   
   return (
     <>
