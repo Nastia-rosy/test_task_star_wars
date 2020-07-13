@@ -23,7 +23,7 @@ const MovieDetails: React.FC<Props> = ({ movie, starships, planets }) => {
       }
     })
     setPlanetsInMovie(keepPlanets);
-  }, [keepPlanets, movie.planets, planets])
+  }, [])
 
   useMemo(() => {
     movie.starships.forEach(item => {
@@ -34,7 +34,7 @@ const MovieDetails: React.FC<Props> = ({ movie, starships, planets }) => {
       }
     })
     setStarshipsInMovie(keepStarships);
-  }, [keepStarships, movie.starships, starships]);
+  }, []);
   
   return (
     <>
@@ -69,7 +69,7 @@ const MovieDetails: React.FC<Props> = ({ movie, starships, planets }) => {
         <p className="movie-details__planets">
           <span className="movie-details__header">Planets:	&nbsp;</span>
           {planetsInMovie.map(planet => (
-            <span className="movie-details__planet">
+            <span className="movie-details__planet" key={planet.url}>
               {planet.name}, &nbsp;
             </span>
           ))}
@@ -77,7 +77,7 @@ const MovieDetails: React.FC<Props> = ({ movie, starships, planets }) => {
         <p className="movie-details__starships">
           <span className="movie-details__header">Starships:	&nbsp;</span>
           {starshipsInMovie.map(starship => (
-            <span className="movie-details__starship">
+            <span className="movie-details__starship" key={starship.url}>
               {starship.name}, &nbsp;
             </span>
           ))}
