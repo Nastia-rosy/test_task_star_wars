@@ -6,12 +6,6 @@ import Main from './Components/Main/Main';
 
 const App: React.FC = () => {
   const [movies, setMovies] = useState<Movie[]>([]);
-  // const [planets, setPlanets] = useState<Planet[]>([]);
-  // const [starships, setStarships] = useState<Starship[]>([]);
-
-  
-  // console.log(planets);
-  // console.log(starships);
 
   useEffect(() => {
     async function fetchMovies() {
