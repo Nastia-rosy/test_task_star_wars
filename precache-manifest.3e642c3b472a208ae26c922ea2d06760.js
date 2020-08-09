@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "128be9038f9577e0524dd6d945095671",
+    "revision": "0adc8ad4df3c3d61c96b7856f9ad53a7",
     "url": "/Nastia-rosy/test_task_star_wars/index.html"
   },
   {
-    "revision": "8d3c0adc85b59dfca30f",
+    "revision": "057a19bbddf445c0b132",
     "url": "/Nastia-rosy/test_task_star_wars/static/css/main.2ce75fa4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nastia-rosy/test_task_star_wars/static/js/2.11e433e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d3c0adc85b59dfca30f",
-    "url": "/Nastia-rosy/test_task_star_wars/static/js/main.03952043.chunk.js"
+    "revision": "057a19bbddf445c0b132",
+    "url": "/Nastia-rosy/test_task_star_wars/static/js/main.36202f3e.chunk.js"
   },
   {
     "revision": "80abc070566a90d05a50",

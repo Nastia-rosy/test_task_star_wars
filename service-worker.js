@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nastia-rosy/test_task_star_wars/precache-manifest.5060e6ce73cf8a162747d3e061a94beb.js"
+  "/Nastia-rosy/test_task_star_wars/precache-manifest.3e642c3b472a208ae26c922ea2d06760.js"
 );
 
 self.addEventListener('message', (event) => {
