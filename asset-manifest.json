@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Nastia-rosy/test_task_star_wars/static/css/main.2ce75fa4.chunk.css",
-    "main.js": "/Nastia-rosy/test_task_star_wars/static/js/main.36202f3e.chunk.js",
-    "main.js.map": "/Nastia-rosy/test_task_star_wars/static/js/main.36202f3e.chunk.js.map",
-    "runtime-main.js": "/Nastia-rosy/test_task_star_wars/static/js/runtime-main.61a6e328.js",
-    "runtime-main.js.map": "/Nastia-rosy/test_task_star_wars/static/js/runtime-main.61a6e328.js.map",
-    "static/js/2.11e433e6.chunk.js": "/Nastia-rosy/test_task_star_wars/static/js/2.11e433e6.chunk.js",
-    "static/js/2.11e433e6.chunk.js.map": "/Nastia-rosy/test_task_star_wars/static/js/2.11e433e6.chunk.js.map",
-    "index.html": "/Nastia-rosy/test_task_star_wars/index.html",
-    "precache-manifest.3e642c3b472a208ae26c922ea2d06760.js": "/Nastia-rosy/test_task_star_wars/precache-manifest.3e642c3b472a208ae26c922ea2d06760.js",
-    "service-worker.js": "/Nastia-rosy/test_task_star_wars/service-worker.js",
-    "static/css/main.2ce75fa4.chunk.css.map": "/Nastia-rosy/test_task_star_wars/static/css/main.2ce75fa4.chunk.css.map",
-    "static/js/2.11e433e6.chunk.js.LICENSE.txt": "/Nastia-rosy/test_task_star_wars/static/js/2.11e433e6.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.2ce75fa4.chunk.css",
+    "main.js": "./static/js/main.36202f3e.chunk.js",
+    "main.js.map": "./static/js/main.36202f3e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c877446b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c877446b.js.map",
+    "static/js/2.11e433e6.chunk.js": "./static/js/2.11e433e6.chunk.js",
+    "static/js/2.11e433e6.chunk.js.map": "./static/js/2.11e433e6.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.b9d4245afef7eed98496cd9373d7b2b3.js": "./precache-manifest.b9d4245afef7eed98496cd9373d7b2b3.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.2ce75fa4.chunk.css.map": "./static/css/main.2ce75fa4.chunk.css.map",
+    "static/js/2.11e433e6.chunk.js.LICENSE.txt": "./static/js/2.11e433e6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.61a6e328.js",
+    "static/js/runtime-main.c877446b.js",
     "static/js/2.11e433e6.chunk.js",
     "static/css/main.2ce75fa4.chunk.css",
     "static/js/main.36202f3e.chunk.js"
