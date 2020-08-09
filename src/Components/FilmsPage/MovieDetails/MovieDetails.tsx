@@ -23,7 +23,7 @@ const MovieDetails: React.FC<Props> = ({ movie, starships, planets }) => {
       }
     })
     setPlanetsInMovie(keepPlanets);
-  }, [])
+  }, [keepPlanets, movie.planets, planets])
 
   useMemo(() => {
     movie.starships.forEach(item => {
@@ -34,7 +34,7 @@ const MovieDetails: React.FC<Props> = ({ movie, starships, planets }) => {
       }
     })
     setStarshipsInMovie(keepStarships);
-  }, []);
+  }, [keepStarships, movie.starships, starships]);
   
   return (
     <>
