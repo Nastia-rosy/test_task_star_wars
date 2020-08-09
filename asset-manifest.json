@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nastia-rosy/test_task_star_wars/static/css/main.2ce75fa4.chunk.css",
+    "main.js": "/Nastia-rosy/test_task_star_wars/static/js/main.03952043.chunk.js",
+    "main.js.map": "/Nastia-rosy/test_task_star_wars/static/js/main.03952043.chunk.js.map",
+    "runtime-main.js": "/Nastia-rosy/test_task_star_wars/static/js/runtime-main.61a6e328.js",
+    "runtime-main.js.map": "/Nastia-rosy/test_task_star_wars/static/js/runtime-main.61a6e328.js.map",
+    "static/js/2.11e433e6.chunk.js": "/Nastia-rosy/test_task_star_wars/static/js/2.11e433e6.chunk.js",
+    "static/js/2.11e433e6.chunk.js.map": "/Nastia-rosy/test_task_star_wars/static/js/2.11e433e6.chunk.js.map",
+    "index.html": "/Nastia-rosy/test_task_star_wars/index.html",
+    "precache-manifest.5060e6ce73cf8a162747d3e061a94beb.js": "/Nastia-rosy/test_task_star_wars/precache-manifest.5060e6ce73cf8a162747d3e061a94beb.js",
+    "service-worker.js": "/Nastia-rosy/test_task_star_wars/service-worker.js",
+    "static/css/main.2ce75fa4.chunk.css.map": "/Nastia-rosy/test_task_star_wars/static/css/main.2ce75fa4.chunk.css.map",
+    "static/js/2.11e433e6.chunk.js.LICENSE.txt": "/Nastia-rosy/test_task_star_wars/static/js/2.11e433e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61a6e328.js",
+    "static/js/2.11e433e6.chunk.js",
+    "static/css/main.2ce75fa4.chunk.css",
+    "static/js/main.03952043.chunk.js"
+  ]
+}
