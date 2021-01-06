@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@types/lodash": "^4.14.157",
     "@types/react-router-dom": "^5.1.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "debounce": "^1.2.0",
     "lodash": "^4.17.19",
     "lodash.debounce": "^4.0.8",
